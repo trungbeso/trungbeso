@@ -17,4 +17,4 @@
 <p align="center"> <a  href="https://skillicons.dev" align="center"><img src="https://skillicons.dev/icons?i=redis,mysql,postgres&perline=10" />  </a> </p>
 <p align="center"> <a  href="https://skillicons.dev" align="center"><img src="https://skillicons.dev/icons?i=git,gitlab,github,powershell,postman,vscode,idea,webstorm,redhat&perline=10" />  </a> </p>
 
-<img align="center" src="https://raw.githubusercontent.com/LinThitHtwe/LinThitHtwe/8c5b0c80c7980ccaf0802034e5d0888f7fd2eb39/github-contribution-grid-snake.svg" width="100%">
+<img align="center" src="https://raw.githubusercontent.com/LinThitHtwe/LinThitHtwe/8c5b0c80c7980ccaf0802034e5d0888f7fd2eb39/github-contribution-grid-snake-dark.svg" width="100%">
