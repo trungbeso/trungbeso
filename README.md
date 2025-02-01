@@ -2,7 +2,7 @@
   <h1><img src="https://user-images.githubusercontent.com/74038190/216649417-9acc58df-9186-4132-ad43-819a57babb67.gif" width="100" height="100"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78634&width=435&lines=Hello+World+%F0%9F%91%8B%2C+I'm+Quang+Trung" alt="Typing SVG" /></a></h1>
 </div>
 <p align="center">
-  <a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78634&width=435&lines=I+am+a+developer+graduate+from" alt="Typing SVG" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78634&width=435&lines=FPT+Academy+%E2%9A%A1" alt="Typing SVG" /></a>
+  <a  align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78634&width=435&lines=I+am+a+developer+graduate+from" alt="Typing SVG" /> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78634&width=435&lines=FPT+Softwear+Academy+%E2%9A%A1" alt="Typing SVG" /></a>
 </p>
 
 <hr>
