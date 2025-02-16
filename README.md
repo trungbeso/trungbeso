@@ -6,7 +6,7 @@
 </p>
 
 <hr>
-<p align="center">I am a recent computer science graduate 🌱 with a strong foundation in Java and Spring Boot ⚡ Seeking hands-on experience and professional growth, I am eager to contribute to innovative projects in software development 🔭 With a commitment to continuous learning, I am excited to collaborate with experienced professionals and further enhance my skills. Let's connect to explore potential opportunities for me to contribute to your organization's success.</p>
+<p align="center">I am a Fresher Developer 🌱 with a strong foundation in Java and Spring Boot ⚡ Seeking hands-on experience and professional growth, I am eager to contribute to innovative projects in software development 🔭 With a commitment to continuous learning, I am excited to collaborate with experienced professionals and further enhance my skills. Let's connect to explore potential opportunities for me to contribute to your organization's success.</p>
 <h3>🔭 I’m currently seeking entry-level roles to kick-start my career in software development. 💻</h3>
 <p align="center">
   <a href="https://skillicons.dev" align="center">
